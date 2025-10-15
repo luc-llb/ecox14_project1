@@ -2,6 +2,8 @@
 
 ## 📊 Descrição do Projeto
 
+> Link do repositorio no GitHub para facilitar a visualização deste documento: https://github.com/luc-llb/ecox14_project1
+
 Este projeto realiza análises exploratórias e visualizações de dados sobre animes utilizando datasets de animes e ratings. O projeto é composto por 5 notebooks Jupyter que implementam processos de ETL (Extração, Transformação e Carga) com visualizações usando Matplotlib.
 
 ## 📁 Estrutura do Projeto
