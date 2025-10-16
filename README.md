@@ -77,6 +77,11 @@ Os gráficos serão salvos automaticamente na pasta `outputs/`
 - **os**: Acesso a diretórios
 
 ## 📊 Datasets
+
+Nesse projeto foi utilizado o dataset do [User Animelist](https://www.kaggle.com/datasets/ramazanturann/user-animelist-dataset), disponibilizado no Kaggle por [Ramazan Turan](https://www.kaggle.com/ramazanturann). 
+
+O dataset possui duas tabelas (dois arquivos CSV) sendo uma focada nos dados dos animes (`animes.csv`) e outra que retrata a pontuação dada a um anime por um usuário (`ratings.csv`).
+
 <table style="border-collapse: collapse; text-align: left;">
     <tr>
         <th style="text-align: center;">
